@@ -1,6 +1,17 @@
 # Dropbox AI Chat bot for Research paper analysis
 
-This tool is for making the research space better by providing assistance in analysing the long research papers and finding the relevent information from them quickly and easily . this will help the researchers with real time data as RAG is used here.
+This tool is for making the research space better by providing assistance in analysing the long research papers and finding the relevent information from them quickly and easily .It identifies and extracts key findings, critical data, and relevant insights embedded within these papers.
+
+why?
+
+T to enhance the research space by streamlining the analysis of lengthy research papers and facilitating the rapid retrieval of pertinent information. Its primary purpose is to assist researchers in their work, making their tasks more efficient and effective.
+
+Time Efficiency-> Research papers can be extensive and filled with detailed information. This tool helps researchers save an enormous amount of time by automating the process of data extraction and analysis, allowing them to focus on their core research tasks.
+
+Data Precision-> It ensures precision in data retrieval by utilizing cutting-edge algorithms to pinpoint the most critical and relevant content, reducing the chances of missing vital details.
+
+Enhanced Research Quality-> By providing researchers with a tool that expedites the information gathering process, it contributes to the improvement of research quality. Researchers can make more informed decisions and conduct more thorough analyses.
+this will help the researchers with real time data as RAG is used here.
 
 Quickly summarize the content and get the additional information you need in **real-time** from private large unstructured documents of research papers in your [Dropbox](https://dropbox.com/). The same tool can be used with [OneDrive](https://onedrive.live.com/login/).
 
