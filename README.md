@@ -1,6 +1,8 @@
-# Dropbox AI Chat
+# Dropbox AI Chat bot for Research paper analysis
 
-Quickly summarize the content and get the information you need in **real-time** from private large unstructured documents in your [Dropbox](https://dropbox.com/). The same tool can be used with [OneDrive](https://onedrive.live.com/login/).
+This tool is for making the research space better by providing assistance in analysing the long research papers and finding the relevent information from them quickly and easily . this will help the researchers with real time data as RAG is used here.
+
+Quickly summarize the content and get the additional information you need in **real-time** from private large unstructured documents of research papers in your [Dropbox](https://dropbox.com/). The same tool can be used with [OneDrive](https://onedrive.live.com/login/).
 
 ## Demo
 
@@ -13,12 +15,6 @@ As you can see the LLM App enables AI-powered search from multiple unstructured 
 ## How to run the tool
 
 There are 3 ways to run the app:
-
-### Run with Conda
-
-For a step-by-step walkthrough in real time (~7 mins) check out the video below:
-
-[![Thumbnail of YouTube walkthrough](assets/yt-thumbnail.png)](https://youtu.be/PbSAYHi5gnM?si=GAi3hYFTiJMO0EQH)
 
 ### Run with Docker
 
@@ -56,7 +52,7 @@ This is done with the `git clone` command followed by the URL of the repository:
 git clone https://github.com/pathway-labs/dropbox-ai-chat
 ```
 
-Next,  navigate to the project folder:
+Next, navigate to the project folder:
 
 ```bash
 cd dropbox-ai-chat
